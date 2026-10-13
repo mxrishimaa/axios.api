@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jhon Doe",
+            "email": "jhondoe20@email.com"
+        },
+        {
+            "id": 2,
+            "name": "Solon Bored",
+            "email": "boredsolon0294@email.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": "999.99"
+        },
+        {
+            "id": 2,
+            "name": "Mouse",
+            "price": 29.99
+        }
+    ]
+}
